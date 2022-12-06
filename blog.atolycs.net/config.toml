@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'github-style'
+
+[params]
+    author = 'Atolycs'
+    avatar = 'https://github.com/atolycs.png'
+    github = "Atolycs"
+    enableGitalk = false
