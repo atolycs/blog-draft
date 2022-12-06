@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://blog.atolycs.net/'
+languageCode = 'ja-JP'
+title = '研究室 - Atolycs'
 theme = 'github-style'
 
 [params]
