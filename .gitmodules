@@ -1,3 +1,6 @@
 [submodule "blog.atolycs.net/themes/github-style"]
 	path = blog.atolycs.net/themes/github-style
 	url = https://github.com/MeiK2333/github-style.git
+[submodule "blog.atolycs.net/themes/paper"]
+	path = blog.atolycs.net/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper

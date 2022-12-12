@@ -1,7 +1,7 @@
 baseURL = 'https://blog.atolycs.net/'
 languageCode = 'ja-JP'
 title = '研究室 - Atolycs'
-theme = 'github-style'
+theme = 'paper'
 
 [params]
     author = 'Atolycs'
